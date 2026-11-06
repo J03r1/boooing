@@ -18,7 +18,7 @@ ik heb een lava parkour level gemaakt waar je moet jumpen naar de finish
 <!-- Voeg hieronder een screenshot of een GIF toe van je werkende level.
      Sleep het bestand naar deze map en gebruik dan de syntax hieronder. -->
 
-![Mini-level preview](doooing.gif)
+![Mini-level preview](main/doooing.gif)
 
 <!-- Tip: gebruik ShareX, LICEcap of de ingebouwde Xbox Game Bar (Win+G) om een GIF op te nemen. -->
 
