@@ -1,16 +1,14 @@
 # Mini-level — Inleveren
 
-**Naam:** <!-- jouw naam -->  
-**Klas:** <!-- jouw klas -->
-**Datum:** <!-- datum van inleveren -->  
+**Naam:** Joeri
+**Klas:** SD1A
+**Datum:**  06-11-26
 **Les:** GDV Les 6
 
 ---
 
 ## Wat heb ik gemaakt?
-
-<!-- Beschrijf kort je mini-level. Wat moet de speler doen? Wat is het doel? -->
-
+ik heb een lava parkour level gemaakt waar je moet jumpen naar de finish
 ...
 
 ---
@@ -20,7 +18,7 @@
 <!-- Voeg hieronder een screenshot of een GIF toe van je werkende level.
      Sleep het bestand naar deze map en gebruik dan de syntax hieronder. -->
 
-![Mini-level preview](images/level.gif)
+![Mini-level preview]()
 
 <!-- Tip: gebruik ShareX, LICEcap of de ingebouwde Xbox Game Bar (Win+G) om een GIF op te nemen. -->
 
@@ -75,8 +73,9 @@ if ()
 ---
 
 ## Eigen extra idee
+jumpen boven lava en de text van BOOOING als je jumpt
 
-<!-- Wat is jouw eigen extra feature? Beschrijf wat het doet en hoe je het hebt gebouwd. -->
+
 
 ...
 
@@ -91,18 +90,18 @@ if ()
 
 ### Wat ging goed? en waarom?
 
-<!-- Wat lukte je makkelijk of waar ben je trots op? -->
+het lukte met een klein beetje hulp prima
 
 ...
 
 ### Wat vond je lastig? en waarom?
 
-<!-- Waar liep je tegenaan? Hoe heb je het opgelost (of niet)? -->
+even herhalen voor mijzelf hoe je jump werkte
+was dit vergeten
 
 ...
 
 ### Wat zou je een volgende keer anders doen?
-
-<!-- Wat heb je geleerd? -->
+niks
 
 ...
