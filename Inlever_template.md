@@ -15,9 +15,8 @@ ik heb een lava parkour level gemaakt waar je moet jumpen naar de finish
 
 ## Screenshot / GIF van je level
 
-
-[https://drive.google.com/file/d/1ymz8nA8TT3sfyw0s22gh1afBLibjwcXL/view?usp=drive_link](https://youtu.be/XAzBopCmiKg
-
+[
+(https://youtu.be/XAzBopCmiKg)
 
 
 
